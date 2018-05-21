@@ -22,6 +22,9 @@ First run on Windows:
 
 Short calculator demo: 
  https://youtu.be/ueQCmmUdmLo
+ 
+Root mind speaking German:
+ https://youtu.be/ElWUBI2e5Mg
 
 Installation:
 =============
